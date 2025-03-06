@@ -9,7 +9,7 @@ public class BattleshipGUI extends JFrame {
     // Manage game screens using CardLayout.
     private CardLayout cardLayout;
     private JPanel mainPanel;
-    
+             
     private HomePanel homePanel;
     private ShipPlacementPanel shipPlacementPanel;
     private PassAndPlayPanel passAndPlayPanel;
